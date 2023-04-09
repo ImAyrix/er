@@ -1,6 +1,7 @@
 <h3 align="center"> Easy Regex </h3>
 <p align="center">
   <a href="#usage-examples">Usage Examples</a> •
+  <a href="#usage-parameters">Usage Parameters</a> •
   <a href="#installation">Install</a> •
   <a href="https://t.me/ImAyrix">Contact me</a>
 </p>
@@ -26,6 +27,16 @@ AS3333
 11111
 2222
 3333
+```
+
+## Usage Parameters
+```
+  -r string
+        Your regex [e.g: ^\w+]
+  -g int
+        Group number
+  -h    Help, show usage parameters
+
 ```
 
 ## Installation
