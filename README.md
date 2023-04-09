@@ -8,7 +8,7 @@
 
 ---
 
-"Easy Regex" is a valuable and straightforward tool that takes your regular expression and showcases the matched parts of the text in the output. Give it a try and witness its usefulness in action.
+"Easy Regex" is a valuable and straightforward tool that takes your regular expression and displays the matched parts of the text in the output. Give it a try and witness its usefulness in action.
 
 ## Usage Examples
 Suppose we possess a file that encompasses a plethora of information, comprising ASN numbers. Our objective is to extract solely the ASN numbers. Let us witness how our tool accomplishes this task for us... 
